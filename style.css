@@ -5,11 +5,10 @@
 .cabeçalho_titulo{
 text-align: center;
 margin: 0%;
+}
+
+.cabasalho{
+background-color: black;
+color: white;
 
 }
- .cabeçalho{ 
-    
-    background-color: black;
-    color: white;
-    
- }
