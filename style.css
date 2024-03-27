@@ -12,3 +12,9 @@ background-color: black;
 color: white;
 
 }
+
+.lista{
+
+display: flex;
+justify-content: end;
+}
