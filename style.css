@@ -13,7 +13,14 @@ color: white;
 
 }
 
-.nav-item{
+.container{
 
-
+    text-align: right;
 }
+.container a{
+
+display:block;
+margin-bottom: 10px;
+}
+
+
