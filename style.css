@@ -14,7 +14,7 @@ color: white;
 }
 
 .links{
-
+    display: flex;
     text-align: right;
 }
 
