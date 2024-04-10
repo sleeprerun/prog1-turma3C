@@ -39,9 +39,3 @@ header {
 .container p {
     text-align: justify;
 }
-
-.benio {
-    display: block;
-    margin: 20px auto;
-    max-width: 100%;
-}
